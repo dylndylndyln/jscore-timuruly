@@ -23,3 +23,7 @@ Similarly, in counter(initialValue), the internal variable count is retained in 
 AI Tools Usage
 
 During the development of this repository, the following AI assistance tools were used: Gemini
+
+Screenshot of Passing Tests
+
+![test](./screenshots/test.png)
